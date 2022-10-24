@@ -21,13 +21,18 @@ Technologies used:
 
 ##
 
-TO DO:
+DONE:
 
+-   Class Components
 -   Listing 10 monsters in cardlist
--   Geting the monsters photos by consuming API
+-   Geting the monsters photos by consuming API (https://robohash.org)
 -   Geting random list by consuming API (https://jsonplaceholder.typicode.com/users)
 -   Filter monsters by name
 -   Visualization improved
+
+TO DO:
+
+-   Convert to Functional Components
 -   Redux Middleware
 
 ##
