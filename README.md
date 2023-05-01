@@ -12,6 +12,10 @@ This project was created for training and improve development skills only.
 
 ##
 
+Type npm start to build and run
+
+##
+
 Technologies used:
 
 -   HTML5
