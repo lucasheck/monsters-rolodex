@@ -1,7 +1,11 @@
-import { Component } from "react";
 import "./card.css";
+import { Monster } from "../../App";
 
-const Card = ({ monster }) => {
+type CardProps = {
+	monster: Monster;
+};
+
+const Card = ({ monster }: CardProps) => {
 	const { name, id, email } = monster;
 
 	return (
